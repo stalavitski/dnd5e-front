@@ -1,0 +1,9 @@
+.container {
+    padding-top: 40px;
+}
+
+.spinner-loading .spinner-border {
+    position: fixed;
+    right: 50%;
+    margin-right: -16px;
+}
